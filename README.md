@@ -6,16 +6,16 @@
 > Added 2021.8.3 But nothing.
 
 > Added 2021.8.3
->> But she've left me alone yet.
->> BUt!I've found my true love on 2021.7.12.
+>> But she've left me alone yet.\n
+>> BUt!I've found my true love on 2021.7.12.\n
 >> She is so pretty❤🤣💕.God damn it...
 
 > Added 2021.8.3
->> I start a program.Without doubt,it's for her.
->> But she seems doesn't see clearly it.
->> Oh my english, really not good.
+>> I start a program.Without doubt,it's for her.\n
+>> But she seems doesn't see clearly it.\n
+>> Oh my english, really not good.\n
 >>> ```太君，我滴，英语大大滴不好。花姑娘滴，我滴。```
->> CLY,si ki dai yo!
+>> \nCLY,si ki dai yo!
 ```
     #include<iostream>
     using namespace std;
