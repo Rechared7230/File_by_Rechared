@@ -15,7 +15,7 @@
 >> But she seems doesn't see clearly it.\n
 >> Oh my english, really not good.\n
 >>> ```太君，我滴，英语大大滴不好。花姑娘滴，我滴。```
->> \nCLY,si ki dai yo!
+>> CLY,da yi si ki dai yo!
 ```
     #include<iostream>
     using namespace std;
