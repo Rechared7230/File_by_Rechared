@@ -34,7 +34,7 @@
     #include<iostream>
     #include<cstring>
     using namespace std;
-    string s;
+    string s;   
     int main(){
         char a;
         //freopen("1.txt","w",stdout);
