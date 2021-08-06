@@ -6,14 +6,14 @@
 > Added 2021.8.3 But nothing.
 
 > Added 2021.8.3
->> But she've left me alone yet.\n
->> BUt!I've found my true love on 2021.7.12.\n
+>> But she've left me alone yet.    
+>> BUt!I've found my true love on 2021.7.12.           
 >> She is so pretty❤🤣💕.God damn it...
 
 > Added 2021.8.3
->> I start a program.Without doubt,it's for her.\n
->> But she seems doesn't see clearly it.\n
->> Oh my english, really not good.\n
+>> I start a program.Without doubt,it's for her.              
+>> But she seems doesn't see clearly it.               
+>> Oh my english, really not good.               
 >>> ```太君，我滴，英语大大滴不好。花姑娘滴，我滴。```
 >> CLY,da yi si ki dai yo!
 ```
@@ -26,10 +26,10 @@
         return 0;
     }
 ```
->>C(4,2020)Powered by C++.
+>> C(4,2020)Powered by C++.
 
->Addde 2021.8.3 Again
->>Power!
+> Addde 2021.8.3 Again
+>> Power!
 ```
     #include<iostream>
     #include<cstring>
