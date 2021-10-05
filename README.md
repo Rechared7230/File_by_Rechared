@@ -16,6 +16,10 @@
 >> Oh my english, really not good.               
 >>> ```太君，我滴，英语大大滴不好。花姑娘滴，我滴。```
 >> CLY,da yi si ki dai yo!
+
+> Added 2021.10.2
+>> I showed my love to her.But, maybe ,she didnot accept me.
+
 ```
     #include<iostream>
     using namespace std;
